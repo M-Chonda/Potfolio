@@ -1,0 +1,16 @@
+h1{
+    font-size: 50px;
+    font-family: 'Work Sans', sans-serif;
+}
+.name-highlight{
+    color: rgb(237, 216, 100);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
